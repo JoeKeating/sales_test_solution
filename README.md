@@ -55,7 +55,7 @@ The repository is organized to mirror the logical flow of the pipeline:
 
 - `notebooks/` – Databricks notebooks for ingestion, transformation, and modeling  
 - `data/` – Exported CSV files produced from the Gold layer for BI consumption  
-- `powerbi/` – Power BI report file(s)  
+- `powerbi/` – Power BI report file  
 - `README.md` – Project overview and documentation  
 
 ---
